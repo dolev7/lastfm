@@ -1,2 +1,2 @@
-print (bla)
-print (blabla)
+print("omer")
+print("12abla")
