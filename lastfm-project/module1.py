@@ -1,2 +1,1 @@
-print("omer")
-print("12abla")
+print("nagid ve yash leha funczia")
